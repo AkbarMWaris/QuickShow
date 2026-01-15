@@ -29,7 +29,7 @@
 - 📱 **Booking Management** - View, cancel, and get QR codes for tickets
 - 👨‍💼 **Admin Dashboard** - Complete movie/show/user management
 - 📱 **Mobile-First** - Responsive design with Tailwind + Prebuild UI
-- 📧 **Notifications** - Email confirmations and booking reminders
+<!-- - 📧 **Notifications** - Email confirmations and booking reminders -->
 - ⚡ **Performance** - 95+ Lighthouse scores with optimized loading
 
 ## 🛠️ Tech Stack
